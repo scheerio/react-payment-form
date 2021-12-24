@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-payment-form/static/css/main.86a24a0f.css",
-    "main.js": "/react-payment-form/static/js/main.5969c935.js",
+    "main.js": "/react-payment-form/static/js/main.215c27b5.js",
     "static/js/787.bc23f4f8.chunk.js": "/react-payment-form/static/js/787.bc23f4f8.chunk.js",
     "static/media/card-options-image.png": "/react-payment-form/static/media/card-options-image.e8700ac90c13c2ce2a57.png",
     "index.html": "/react-payment-form/index.html",
     "main.86a24a0f.css.map": "/react-payment-form/static/css/main.86a24a0f.css.map",
-    "main.5969c935.js.map": "/react-payment-form/static/js/main.5969c935.js.map",
+    "main.215c27b5.js.map": "/react-payment-form/static/js/main.215c27b5.js.map",
     "787.bc23f4f8.chunk.js.map": "/react-payment-form/static/js/787.bc23f4f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86a24a0f.css",
-    "static/js/main.5969c935.js"
+    "static/js/main.215c27b5.js"
   ]
 }
