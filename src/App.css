@@ -75,6 +75,10 @@
     'image image'
     'submit submit';
   }
+  #widget-container{
+    max-width: 45%;
+    min-width: 45%;
+  }
 }
 
 #card-name-field{
