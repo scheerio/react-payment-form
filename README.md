@@ -2,7 +2,7 @@
 
 This project is a payment form example, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It uses VISA and AMEX as main examples in terms of valid credit cards.
 
-To see a live demo of this app via Github Pages, click [here](https://github.com/scheerio/react-payment-form).
+To see a live demo of this app via Github Pages, click [here](https://scheerio.github.io/react-payment-form/).
 
 If you'd like to clone this and run it locally, follow these steps:
 
