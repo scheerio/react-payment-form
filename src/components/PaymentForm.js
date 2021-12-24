@@ -28,7 +28,7 @@ const PaymentForm = () => {
     if ((cardNumber.length != 19 && cardType == 'VISA') || (cardNumber.length != 17 && cardType == 'AMEX')){
       setCardNumberIsValidHighlight('red');
       containsError = true;
-      errors.push('- Card number entered is not valid');
+      errors.push('- Card number entered is not valid.');
     } if ((cVV2.length != 3 && cVV2.length != 4) || (cardType == 'VISA' && cVV2.length != 3) || (cardType == 'AMEX' && cVV2.length != 4)){
       setCVV2IsValidHighlight('red');
       containsError = true;
